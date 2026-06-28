@@ -103,7 +103,6 @@ ChargeGuard-AI
 ├── requirements.txt
 ├── dashboard
 ├── docs
-├── images
 └── presentation
 ```
 
@@ -120,8 +119,7 @@ ChargeGuard-AI
 
 ---
 
-## Authors
 
-Team _______
+Team SUMMIT SEEKERS
 
 Hackathon 2026
